@@ -26,7 +26,6 @@ Currently pursuing a Master's degree in Business Informatics while working on st
 - Node.js
 - Express
 - Prisma
-- Supabase
-- PostgreSQL
+- Fastify
 
 
