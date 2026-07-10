@@ -12,9 +12,7 @@ Currently pursuing a Master's degree in Business Informatics while working on st
 - 🗄️ Working with PostgreSQL, Supabase and Prisma
 - 🐳 Learning backend architecture, Docker and DevOps
 - 🤖 Interested in AI-powered applications and SaaS products
-
-## 🛠️ Tech Stack
-
+- 
 ### Frontend
 - React
 - Next.js
@@ -24,25 +22,11 @@ Currently pursuing a Master's degree in Business Informatics while working on st
 - Zustand
 - shadcn/ui
 
-### On the way of learning
+### Currently Learning
 - Node.js
 - Express
 - Prisma
 - Supabase
 - PostgreSQL
 
-### Tools
-- Git & GitHub
-- Docker
-- Figma
-- Framer
-- WordPress
-- Vercel
 
-## 📌 Currently
-
-- 🌱 Improving my backend and system design skills
-- 🚀 Building startup and SaaS projects
-- 🎓 Studying Business Informatics
-
----
