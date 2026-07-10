@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Matej 👋
 
-<!--
-**sujko123/sujko123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer from Slovakia 🇸🇰 passionate about building modern web applications and turning ideas into real products.
 
-Here are some ideas to get you started:
+Currently pursuing a Master's degree in Business Informatics while working on startup products and freelance projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About me
+
+- 🚀 3+ years of experience building websites and web applications
+- ⚛️ Specialized in React, Next.js and TypeScript
+- 🎨 Passionate about clean UI/UX and responsive design
+- 🗄️ Working with PostgreSQL, Supabase and Prisma
+- 🐳 Learning backend architecture, Docker and DevOps
+- 🤖 Interested in AI-powered applications and SaaS products
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- TanStack Query
+- Zustand
+- shadcn/ui
+
+### On the way of learning
+- Node.js
+- Express
+- Prisma
+- Supabase
+- PostgreSQL
+
+### Tools
+- Git & GitHub
+- Docker
+- Figma
+- Framer
+- WordPress
+- Vercel
+
+## 📌 Currently
+
+- 🌱 Improving my backend and system design skills
+- 🚀 Building startup and SaaS projects
+- 🎓 Studying Business Informatics
+
+---
